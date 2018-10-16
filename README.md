@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a title="MIT License" href="LICENSE">
-    <img src="https://img.shields.io/badge/%E2%86%92-AHMAD%20AWAIS-gray.svg?colorA=2D2A56&colorB=4D2AFF&style=flat">
+  <a title="Autho — Ahmad Awais" href="https://AhmadAwais.com/">
+    <img src="https://img.shields.io/badge/by-AHMAD%20AWAIS-gray.svg?colorA=757575&colorB=EF6C00&style=flat">
   </a>
   <a title="Follow on Twitter" href="https://twitter.com/MrAhmadAwais">
     <img src="https://img.shields.io/twitter/follow/MrAhmadAwais.svg?style=social&label=Follow">
