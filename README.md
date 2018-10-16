@@ -34,7 +34,7 @@ I'm a full-time open source dev with hundreds of [developer-tooling](https://git
 
 #### STATS
 
-The [create-guten-block](https://github.com/ahmadawais/create-guten-block) is used by ~200 Gutenberg WordPress plugins on the WordPress.org repo (As per my knowledge, that is 90% of the total plugins using Gutenberg on WP.org). It's also been download 100,000+ times.
+The [create-guten-block](https://github.com/ahmadawais/create-guten-block) is used by ~200 Gutenberg WordPress plugins on the WordPress.org repo (As per my knowledge, that is 90% of the total plugins using Gutenberg on WP.org). CGB has about ~1500 Stargazers/forks and has been downloaded 100,000+ times.
 
 The reason to share this context and the stats is to make a point that developers need to have better tooling at their disposal for not only a better development experience but also building plugins/themes based on Gutenberg with high-quality code. These stats are a testament towards the need of such tooling.
 
