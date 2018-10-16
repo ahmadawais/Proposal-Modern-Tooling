@@ -1,8 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://www.gridsome.org">
-    <img src="https://raw.githubusercontent.com/gridsome/gridsome/master/assets/logo.png" width="120"/>
-  </a>
+    <img src="https://on.ahmda.ws/88c124/c"/>
 </p>
 
 <h1 align="center">Proposal Modern Dev Tooling</h1>
@@ -13,10 +11,10 @@
 
 <p align="center">
   <a title="MIT License" href="LICENSE">
-    <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square">
+    <img src="https://img.shields.io/badge/%E2%86%92-AHMAD%20AWAIS-gray.svg?colorA=2D2A56&colorB=4D2AFF&style=flat">
   </a>
   <a title="Follow on Twitter" href="https://twitter.com/MrAhmadAwais">
-    <img src="https://img.shields.io/twitter/follow/gridsome.svg?style=social&label=Follow">
+    <img src="https://img.shields.io/twitter/follow/MrAhmadAwais.svg?style=social&label=Follow">
   </a>
   <br>
   <br>
