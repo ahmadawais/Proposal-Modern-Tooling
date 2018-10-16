@@ -85,4 +85,8 @@ For the development of [Twenty-Nineteen](https://github.com/WordPress/twentynine
 
 > _*NOTE*_: I think all of the custom blocks related code should probably go in a companion plugin for this theme. That has always been the general consensus and my recommendation to fellow developers.
 
+## WHAT'S NEXT
+
+> For further discussions I have opened up this issue on the [TwentyNineteen repo →](https://github.com/WordPress/twentynineteen/issues/70)
+
 Peace! ✌️
