@@ -12,7 +12,7 @@ The goal behind creating this proposal document is to help convince the WordPres
 
 I'm a full-time open source dev with hundreds of [developer-tooling](https://github.com/AhmadAwais) related FOSS (Free & Open Source Software) projects, one of which is most relevant to this proposal — it's called [create-guten-block](https://github.com/ahmadawais/create-guten-block). Investing in better developer experience and dev-tooling for WordPress developers in the post-Gutenberg world is vital.
 
-### STATS
+#### STATS
 
 The [create-guten-block](https://github.com/ahmadawais/create-guten-block) is used by ~200 Gutenberg WordPress plugins on the WordPress.org repo (As per my knowledge, that is 90% of the total plugins using Gutenberg on WP.org). It's also been download 100,000+ times.
 
@@ -22,7 +22,7 @@ The reason to share this context and the stats is to make a point that developer
 
 For years, default themes have been the source of truth for many new developers, so it's my recommendation that we start [Twenty-Nineteen](https://github.com/WordPress/twentynineteen/) default WordPress theme with some sort of tooling in place. It will be beneficial for the WordPress community in a number of ways, some of which are listed below:
 
-### 🗃️ **MODERN CODE**
+#### 🗃️ **MODERN CODE**
 
 - Use of modern JavaScript i.e. ES6+
 - WordPress will have modern code base
@@ -31,20 +31,20 @@ For years, default themes have been the source of truth for many new developers,
 - The possibility of a modern code base with PWAs, Web/Service Workers
 - Make it easier to transition towards a more modular code for WordPress Core
 
-### 🏇 **FASTER WEB**
+#### 🏇 **FASTER WEB**
 
 - WordPress is 32% of the meaningful web at the moment
 - Build tools i.e. webpack will help make 32% of web faster
 - JS tree-shaking, removal of unused CSS, optimized mobile sites — all big wins
 
-### 🌟 **QUALITY CODE**
+#### 🌟 **QUALITY CODE**
 
 - Use of standard coding best practice can be enforced
 - Build tooling can help add ESLint & Prettier to the mix
 - ESLint/Prettier + other linters help improve code quality
 - Modern code testing, coverage, deployment, and semantic versioning tools
 
-### 🦁 **DEVELOPER EXPERIENCE**
+#### 🦁 **DEVELOPER EXPERIENCE**
 
 - Developer tooling will help improve the DX (Developer Experience)
 - Integrations with modern JavaScript eco-system will become easier
@@ -53,7 +53,7 @@ For years, default themes have been the source of truth for many new developers,
 
 ## **SUGGESTIONS**
 
-I suggest the inclusion of following in the development process of [Twenty-Nineteen](https://github.com/WordPress/twentynineteen/) default WordPress theme:
+For the development of [Twenty-Nineteen](https://github.com/WordPress/twentynineteen/) default WordPress theme, I suggest the inclusion of following dev-tools:
 
 - `webpack` —  JavaScript bundler
 - `Babel` —  Using Modern JavaScript today
