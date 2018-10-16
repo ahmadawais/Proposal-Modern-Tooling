@@ -1,6 +1,26 @@
-# Proposal Modern Dev Tooling
+<p align="center">
+  <br>
+  <a href="https://www.gridsome.org">
+    <img src="https://raw.githubusercontent.com/gridsome/gridsome/master/assets/logo.png" width="120"/>
+  </a>
+</p>
 
-> A developer build tooling proposal for default and modern JavaScript based WordPress Core.
+<h1 align="center">Proposal Modern Dev Tooling</h1>
+
+<p align="center">
+  A developer build tooling proposal for default and modern JavaScript based WordPress Core.
+</p>
+
+<p align="center">
+  <a title="MIT License" href="LICENSE">
+    <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square">
+  </a>
+  <a title="Follow on Twitter" href="https://twitter.com/MrAhmadAwais">
+    <img src="https://img.shields.io/twitter/follow/gridsome.svg?style=social&label=Follow">
+  </a>
+  <br>
+  <br>
+</p>
 
 ## GOALS
 
@@ -62,3 +82,5 @@ For the development of [Twenty-Nineteen](https://github.com/WordPress/twentynine
 - `phpcs` - PHP Code Sniffer to uphold WP PHP Code Standards
 - `phpcbf` - PHP Code Beautifier and fixer comes with `phpcs` package
 - `create-guten-block` — Sane defaults #ZeroConfig Gutenberg starter kit
+
+Peace! ✌️
