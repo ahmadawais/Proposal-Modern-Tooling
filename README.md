@@ -83,4 +83,6 @@ For the development of [Twenty-Nineteen](https://github.com/WordPress/twentynine
 - `phpcbf` - PHP Code Beautifier and fixer comes with `phpcs` package
 - `create-guten-block` — Sane defaults #ZeroConfig Gutenberg starter kit
 
+> _*NOTE*_: I think all of the custom blocks related code should probably go in a companion plugin for this theme. That has always been the general consensus and my recommendation to fellow developers.
+
 Peace! ✌️
