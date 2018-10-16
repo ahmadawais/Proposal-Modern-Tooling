@@ -26,7 +26,7 @@
 
 Hey, folks! 🙌
 
-The goal behind creating this proposal document is to help convince the WordPress community, core developers, and especially the contributors behind the all new [Twenty-Nineteen](https://github.com/WordPress/twentynineteen/) default WordPress theme to use developer build tooling. Which in turn will help modernize
+The goal behind creating this proposal document is to help convince the WordPress community, core developers, and especially the contributors behind the all-new [Twenty-Nineteen](https://github.com/WordPress/twentynineteen/) default WordPress theme to use developer build tooling. Which in turn will help modernize
 
 ## CONTEXT
 
@@ -40,12 +40,12 @@ The reason to share this context and the stats is to make a point that developer
 
 ## BENEFITS
 
-For years, default themes have been the source of truth for many new developers, so it's my recommendation that we start [Twenty-Nineteen](https://github.com/WordPress/twentynineteen/) default WordPress theme with some sort of tooling in place. It will be beneficial for the WordPress community in a number of ways, some of which are listed below:
+For years, default themes have been the source of truth for many new developers, so it's my recommendation that we start [Twenty-Nineteen](https://github.com/WordPress/twentynineteen/) default WordPress theme with developer build tooling in place. It will be beneficial for the WordPress community in many ways, some of which are listed below:
 
 #### 🗃️ **MODERN CODE**
 
-- Use of modern JavaScript i.e. ES6+
-- WordPress will have modern code base
+- Use of modern JavaScript, i.e. ES6+
+- WordPress will have a modern code base
 - Offline support for WordPress themes will lead to 10x better UX
 - It will encourage the use of the latest JavaScript and PHP versions
 - The possibility of a modern code base with PWAs, Web/Service Workers
@@ -54,14 +54,14 @@ For years, default themes have been the source of truth for many new developers,
 #### 🏇 **FASTER WEB**
 
 - WordPress is 32% of the meaningful web at the moment
-- Build tools i.e. webpack will help make 32% of web faster
+- Build tools, i.e. webpack will help make 32% of web faster
 - JS tree-shaking, removal of unused CSS, optimized mobile sites — all big wins
 
 #### 🌟 **QUALITY CODE**
 
-- Use of standard coding best practice can be enforced
 - Build tooling can help add ESLint & Prettier to the mix
 - ESLint/Prettier + other linters help improve code quality
+- Build tools make it easier to use standard coding best practices
 - Modern code testing, coverage, deployment, and semantic versioning tools
 
 #### 🦁 **DEVELOPER EXPERIENCE**
