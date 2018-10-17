@@ -91,7 +91,9 @@ It's expected to have some sort of backlash towards this proposal so, I am going
 
 **NO**. I never said that. Since the day I built [create-guten-block](https://github.com/ahmadawais/create-guten-block) I have been preaching the same lesson, `Custom blocks should only be built inside plugins`. Yes, blocks go in plugins.
 
-And in this case I am suggesting that we build a TwentyNineteen Companion plugin to showcase how we can extend WordPress with custom blocks. WordPress is a CMS and for building custom blocks we'll need companion plugin with the theme. That plugin should have a build tooling process to it. Default themes used to do that. TwentySeventeen has custom pages and customizer helped. With TwentyNineteen we can showcase custom blocks as well. Developers look at default themes to derive inspiration for their work.
+And in this case I am suggesting that we build a TwentyNineteen Companion plugin to showcase how we can extend WordPress with custom blocks. WordPress is a CMS and for building custom blocks we'll need companion plugin with the theme. That plugin should have a build tooling process to it.
+
+Default themes used to do that. TwentySeventeen has custom pages and customizer helped. With TwentyNineteen we can showcase custom blocks as well. Developers look at default themes to derive inspiration for their work.
 
 That's what I am recommending.
 
