@@ -8,7 +8,7 @@
 <h1 align="center">Proposal: Modern Dev Tooling</h1>
 
 <p align="center">
-  A developer build tooling proposal for default and modern JavaScript based WordPress Core.
+  A developer build tooling proposal for modern JavaScript based WordPress Core.
 </p>
 
 <p align="center">
