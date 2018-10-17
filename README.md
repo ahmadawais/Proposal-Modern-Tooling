@@ -87,7 +87,7 @@ For the development of [Twenty-Nineteen](https://github.com/WordPress/twentynine
 
 It's expected to have some sort of backlash towards this proposal so, I am going to keep a log of frequently asked questions and their answers.
 
-#### Are you suggesting we build custom blocks inside a WordPress Theme?
+#### ❓ Are you suggesting we build custom blocks inside a WordPress Theme?
 
 **NO**. I never said that. Since the day I built [create-guten-block](https://github.com/ahmadawais/create-guten-block) I have been preaching the same lesson, `Custom blocks should only be built inside plugins`. Yes, blocks go in plugins.
 
@@ -97,7 +97,7 @@ Default themes used to do that. TwentySeventeen has custom pages and customizer 
 
 That's what I am recommending.
 
-#### TwentyNineteen should be kept simple!
+#### ❓ TwentyNineteen should be kept simple!
 
 Sure, it should be. But there's an opportunity here that can be explored. If we built Gutenberg to only build simple CSS only WordPress themes without showcasing what custom blocks are now capable of — then we just wasted two years for nothing.
 
